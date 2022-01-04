@@ -31,8 +31,8 @@ Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.. 😇.
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/mrismanaziz/File-Sharing-Man
-cd File-Sharing-Man
+git clone https://github.com/lifeboy1/LIFE-USERBOT
+cd LIFE-USERBOT
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 main.py
